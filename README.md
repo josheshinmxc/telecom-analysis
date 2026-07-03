@@ -62,7 +62,7 @@ El objetivo de este proyecto es realizar un análisis exploratorio de datos sobr
 
 ---
 
-## ▶️ Cómo Ejecutar el Notebook
+## Cómo Ejecutar el Notebook
 
 ### Opción 1 — Google Colab (recomendado)
 
